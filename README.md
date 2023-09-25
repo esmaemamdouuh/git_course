@@ -1,3 +1,3 @@
 # git_course
-first repository
+first repository from loka
 ##Project notes
